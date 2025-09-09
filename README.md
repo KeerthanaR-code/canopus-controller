@@ -9,13 +9,12 @@
 - Power cables x 2
 
 ## Prerequisites
-
 - Arduino IDE 2
 - AccelStepper library for Arduino in Arduino IDE - https://docs.arduino.cc/libraries/accelstepper/
 
 ## Wiring:
 
-
+<img width="1105" height="872" alt="TB6600 stepper motor wiring" src="https://github.com/user-attachments/assets/5ed52fd9-c2d4-49fc-9e44-a251e91b784b" />
 
 ## Wowki simulation
 
